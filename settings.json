@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SOLO",
+    "username": "op",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "NightSMPOG.aternos.me ",
+    "ip": "NightSMPOG.aternos.me",
     "port": 18081,
     "version": "1.20.1",
     "try-creative": false
